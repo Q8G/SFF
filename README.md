@@ -34,6 +34,6 @@ File Name: 1.png (You must put the file extension such as .png, .exe, etc)
 ```
 
 
-## **Image of a Code** 📸
+## **Image of a Tool** 📸
 
 ![App Screenshot](https://i.postimg.cc/gk2ZpsGz/image.png)
