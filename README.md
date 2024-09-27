@@ -26,6 +26,13 @@ Open Tool Folder
 Run the install.bat file
 ```
 
+## **How to use it** ✨
+
+**Example :**
+```
+File Name: 1.png (You must put the file extension such as .png, .exe, etc)
+```
+
 
 ## **Image of a Code** 📸
 
