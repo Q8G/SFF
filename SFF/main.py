@@ -1,7 +1,7 @@
 import os, platform
 from colorama import init, Fore
 init()
-os.system("title Soul Files Finder")
+os.system("title Files Finder")
 os.system('cls' if os.name == 'nt' else 'clear')
 fn = input(Fore.YELLOW + "File Name: " + Fore.RESET)
 sepa = "C:\\" if platform.system() == "Windows" else "/"
