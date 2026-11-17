@@ -1,4 +1,4 @@
-# **Soul Files Finder**
+# **Swift Files Finder**
 
 You can access the path of the file you want using its name only
 
